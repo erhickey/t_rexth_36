@@ -13,6 +13,10 @@
 - Hot swap sockets
 - Tenting puck compatible
 
+## Firmware
+
+[Example zmk configuration](https://github.com/erhickey/keyboards/tree/main/t_rexth_36)
+
 ### Notes
 
 PCB track width and spacing is 0.15mm. Make sure your manufacturer is capable of printing boards with those specs. I used [JLCPCB](https://jlcpcb.com/capabilities/pcb-capabilities).
